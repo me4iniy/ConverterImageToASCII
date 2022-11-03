@@ -30,7 +30,6 @@ namespace DD
 
                     if (tempDoubleNumber == oldDoubleNumber)
                         return;
-
                     oldDoubleNumber = tempDoubleNumber;
                 }
                 else
